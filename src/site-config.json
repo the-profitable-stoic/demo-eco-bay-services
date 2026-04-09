@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Eco Bay Services",
+    "phone": "+14156437777",
+    "category": "demolition contractor",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco Demolition Done Right",
+      "heroSubline": "Eco Bay Services: Expert demolition contractors serving the Bay Area. Delivering precision and safety on every project.",
+      "aboutTitle": "Demolition Experts in San Francisco",
+      "aboutText": [
+        "Eco Bay Services was founded over a decade ago by a team of demolition professionals who saw a need for reliable, environmentally conscious demolition services in the Bay Area. We started small, taking on residential projects and quickly built a reputation for quality workmanship and attention to detail.",
+        "Our approach is simple: plan meticulously, execute flawlessly, and prioritize safety above all else. We believe in clear communication, transparent pricing, and leaving every job site cleaner than we found it. We're not just tearing down structures; we're preparing the ground for new beginnings.",
+        "We are deeply committed to the San Francisco community. We actively participate in local initiatives and prioritize sustainable practices to minimize our environmental impact. Our goal is to contribute to the growth and prosperity of the Bay Area while ensuring a safe and healthy environment for generations to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "Prioritizing safety in every project, protecting our team, clients, and the environment."
+        },
+        {
+          "title": "Efficient Execution",
+          "description": "Completing projects on time and within budget, minimizing disruption and maximizing value."
+        },
+        {
+          "title": "Environmental Responsibility",
+          "description": "Employing sustainable demolition practices, reducing waste, and recycling materials whenever possible."
+        },
+        {
+          "title": "Expert Team",
+          "description": "Highly skilled and experienced demolition professionals, equipped to handle any challenge."
+        }
+      ],
+      "ctaHeadline": "Get a Free Demolition Quote",
+      "ctaSubline": "Discuss your project with our team and receive a detailed, no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "residential-demolition",
+        "name": "Residential Demolition",
+        "shortDescription": "Safe, efficient demolition of houses, garages, and other residential structures.",
+        "description": "From single-family homes to multi-unit dwellings, Eco Bay Services provides comprehensive residential demolition services throughout San Francisco. We understand the unique challenges of demolishing structures in densely populated urban areas, with older buildings often situated very close together. Our team utilizes specialized equipment and techniques to minimize dust, noise, and disruption to your neighbors. We take care of everything from asbestos abatement and hazardous material removal to obtaining the necessary permits and ensuring compliance with all local regulations. Whether you're planning a new construction project or simply need to clear land, we'll prepare your site safely and efficiently. We handle interior gutting, selective demolition for renovations, and complete building teardowns. Our commitment is to leaving you with a clean, level site ready for the next phase of your project.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Permits and Notifications",
+          "Step 3: Utility Disconnections and Environmental Remediation",
+          "Step 4: Controlled Demolition and Debris Removal"
+        ],
+        "benefits": [
+          "Safe and Compliant Demolition",
+          "Minimized Disruption to Neighbors",
+          "Efficient Site Preparation",
+          "Environmentally Responsible Practices"
+        ],
+        "faq": [
+          {
+            "question": "How long does residential demolition take?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most residential demolitions can be completed within a week. We provide a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "Do I need to obtain permits for demolition?",
+            "answer": "Eco Bay Services handles all necessary permits and notifications for your demolition project, ensuring compliance with San Francisco regulations. We will keep you informed throughout the process."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We prioritize recycling and responsible disposal of demolition debris. We work with local recycling facilities to divert as much material as possible from landfills."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-demolition",
+        "name": "Commercial Demolition",
+        "shortDescription": "Expert demolition services for offices, retail spaces, and industrial buildings.",
+        "description": "Eco Bay Services specializes in commercial demolition projects of all sizes, from interior tenant improvements to complete building teardowns. We understand the importance of minimizing downtime and disruption to your business operations. Our team works quickly and efficiently, adhering to strict safety protocols and environmental regulations. We have experience demolishing a wide range of commercial structures, including office buildings, retail stores, warehouses, and industrial facilities. We handle all aspects of the demolition process, including asbestos abatement, hazardous material removal, and site clearing. Whether you're renovating your existing space or preparing for a new construction project, we'll provide the expertise and resources you need to get the job done right. We also offer selective demolition services to preserve valuable architectural elements or historical features.",
+        "process": [
+          "Step 1: Detailed Project Planning and Risk Assessment",
+          "Step 2: Secure Necessary Permits and Approvals",
+          "Step 3: Implement Safety Measures and Environmental Controls",
+          "Step 4: Execute Demolition and Debris Removal"
+        ],
+        "benefits": [
+          "Minimized Business Disruption",
+          "Safe and Efficient Demolition",
+          "Compliance with Regulations",
+          "Experienced Project Management"
+        ],
+        "faq": [
+          {
+            "question": "Can you demolish a building that contains asbestos?",
+            "answer": "Yes, Eco Bay Services is licensed and certified to safely remove asbestos and other hazardous materials before demolition. We follow strict protocols to protect our workers and the environment."
+          },
+          {
+            "question": "What are the costs associated with commercial demolition?",
+            "answer": "The cost of commercial demolition depends on the size and complexity of the project, as well as the presence of hazardous materials. We provide a detailed estimate after assessing your specific needs."
+          },
+          {
+            "question": "Do you offer interior demolition services for commercial spaces?",
+            "answer": "Yes, we specialize in interior demolition for tenant improvements, renovations, and remodeling projects. We can remove walls, floors, ceilings, and other interior elements while minimizing disruption to surrounding businesses."
+          }
+        ]
+      },
+      {
+        "slug": "selective-demolition",
+        "name": "Selective Demolition",
+        "shortDescription": "Precise demolition for renovations, remodels, and historical preservation.",
+        "description": "Eco Bay Services provides selective demolition services for projects that require precision and care. Whether you're renovating a historic Victorian in Pacific Heights or remodeling a kitchen in a modern condo, we have the expertise to remove specific building elements without damaging surrounding structures. We use specialized techniques, such as hand demolition and controlled demolition, to ensure accuracy and minimize dust and noise. We work closely with architects, contractors, and homeowners to understand their specific needs and deliver exceptional results. We have extensive experience demolishing walls, floors, ceilings, and other interior elements while preserving valuable architectural features. Our selective demolition services are ideal for renovations, remodels, historical preservation projects, and tenant improvements.",
+        "process": [
+          "Step 1: Thorough Site Inspection and Planning",
+          "Step 2: Implement Protective Measures",
+          "Step 3: Execute Selective Demolition with Precision",
+          "Step 4: Debris Removal and Site Cleanup"
+        ],
+        "benefits": [
+          "Preservation of Valuable Elements",
+          "Minimized Dust and Noise",
+          "Precise and Controlled Demolition",
+          "Expertise in Historical Preservation"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between selective and complete demolition?",
+            "answer": "Selective demolition involves removing specific building elements while leaving the surrounding structure intact. Complete demolition involves tearing down the entire building."
+          },
+          {
+            "question": "Can you demolish a wall without damaging the adjacent walls?",
+            "answer": "Yes, we use specialized techniques, such as saw cutting and hand demolition, to remove walls without damaging adjacent structures."
+          },
+          {
+            "question": "Do you offer dust control measures during selective demolition?",
+            "answer": "Yes, we use dust control measures, such as water spraying and HEPA filtration, to minimize dust during selective demolition projects."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-removal",
+        "name": "Concrete Removal",
+        "shortDescription": "Efficient and safe removal of concrete slabs, foundations, and structures.",
+        "description": "Eco Bay Services specializes in concrete removal services for residential, commercial, and industrial projects. From removing old driveways and patios to demolishing concrete foundations and structures, we have the equipment and expertise to get the job done right. We use a variety of methods, including jackhammers, concrete saws, and heavy machinery, to break up and remove concrete safely and efficiently. We also handle the removal and disposal of concrete debris, ensuring compliance with all local regulations. Whether you're preparing for a new construction project or simply need to remove an unwanted concrete structure, we'll provide the expertise and resources you need. We understand the challenges of working with concrete in urban environments, and we take precautions to minimize dust, noise, and disruption.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Implement Safety Measures and Dust Control",
+          "Step 3: Break Up and Remove Concrete",
+          "Step 4: Debris Removal and Site Cleanup"
+        ],
+        "benefits": [
+          "Efficient and Safe Concrete Removal",
+          "Minimized Dust and Noise",
+          "Compliance with Regulations",
+          "Experienced Team"
+        ],
+        "faq": [
+          {
+            "question": "What is the best way to remove a concrete driveway?",
+            "answer": "We typically use jackhammers and heavy machinery to break up the concrete and then load it onto trucks for disposal. We also take precautions to minimize dust and noise."
+          },
+          {
+            "question": "How much does it cost to remove a concrete slab?",
+            "answer": "The cost depends on the size and thickness of the slab, as well as the accessibility of the site. We provide a free estimate after assessing your specific needs."
+          },
+          {
+            "question": "Do you offer concrete cutting services?",
+            "answer": "Yes, we offer concrete cutting services for projects that require precise cuts in concrete structures."
+          }
+        ]
+      },
+      {
+        "slug": "asbestos-abatement",
+        "name": "Asbestos Abatement",
+        "shortDescription": "Certified asbestos removal services for homes and businesses.",
+        "description": "Eco Bay Services is a licensed and certified asbestos abatement contractor. We provide safe and effective asbestos removal services for residential and commercial properties throughout San Francisco. Asbestos is a hazardous material that can pose serious health risks if not handled properly. Our team of trained professionals follows strict protocols and regulations to ensure the safe removal and disposal of asbestos-containing materials. We handle all aspects of the asbestos abatement process, including inspection, testing, removal, and disposal. Whether you're renovating an older home or demolishing a commercial building, we'll provide the expertise and resources you need to protect your health and the environment. We understand the importance of minimizing disruption to your home or business, and we work quickly and efficiently to complete the project on time and within budget.",
+        "process": [
+          "Step 1: Asbestos Inspection and Testing",
+          "Step 2: Develop Asbestos Abatement Plan",
+          "Step 3: Implement Safety Measures and Containment",
+          "Step 4: Asbestos Removal and Disposal"
+        ],
+        "benefits": [
+          "Safe and Effective Asbestos Removal",
+          "Compliance with Regulations",
+          "Licensed and Certified Professionals",
+          "Minimized Disruption"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home contains asbestos?",
+            "answer": "The only way to know for sure is to have your home inspected and tested by a certified asbestos inspector. We offer asbestos inspection services throughout San Francisco."
+          },
+          {
+            "question": "What are the health risks associated with asbestos exposure?",
+            "answer": "Asbestos exposure can cause serious health problems, including lung cancer, mesothelioma, and asbestosis."
+          },
+          {
+            "question": "How much does asbestos abatement cost?",
+            "answer": "The cost depends on the amount of asbestos that needs to be removed and the complexity of the project. We provide a free estimate after inspecting your property."
+          }
+        ]
+      },
+      {
+        "slug": "site-clearing",
+        "name": "Site Clearing",
+        "shortDescription": "Comprehensive land clearing services for construction and development projects.",
+        "description": "Eco Bay Services provides comprehensive site clearing services for construction and development projects of all sizes. We handle everything from removing trees and vegetation to demolishing existing structures and grading the land. We have the equipment and expertise to prepare your site for construction quickly and efficiently. We also handle the removal and disposal of all debris, ensuring compliance with all local regulations. Whether you're building a new home, a commercial building, or a large-scale development, we'll provide the expertise and resources you need to get the job done right. We understand the importance of minimizing environmental impact, and we use sustainable practices whenever possible.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Tree and Vegetation Removal",
+          "Step 3: Demolition of Existing Structures",
+          "Step 4: Grading and Site Preparation"
+        ],
+        "benefits": [
+          "Efficient Site Preparation",
+          "Compliance with Regulations",
+          "Sustainable Practices",
+          "Experienced Team"
+        ],
+        "faq": [
+          {
+            "question": "How long does site clearing take?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We provide a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "Do I need to obtain permits for site clearing?",
+            "answer": "Eco Bay Services handles all necessary permits and notifications for your site clearing project, ensuring compliance with San Francisco regulations."
+          },
+          {
+            "question": "What happens to the debris after site clearing?",
+            "answer": "We prioritize recycling and responsible disposal of site clearing debris. We work with local recycling facilities to divert as much material as possible from landfills."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is proud to offer comprehensive demolition services to the residents and businesses of San Francisco. As a leading demolition contractor in the Bay Area, we understand the unique challenges and requirements of working within this vibrant and historic city. From small residential projects to large commercial undertakings, we have the expertise and equipment to handle any demolition job safely and efficiently.\n\nWe are committed to environmentally responsible practices and prioritize recycling and waste reduction in all our projects. Our team is fully licensed, insured, and dedicated to providing exceptional service while adhering to all local regulations and safety standards. Whether you're planning a renovation, redevelopment, or complete demolition, Eco Bay Services is your trusted partner in San Francisco.",
+        "localContext": "San Francisco is a densely populated city with a mix of Victorian architecture and modern developments, requiring careful planning and execution of demolition projects to minimize disruption.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Eco Bay Services extends its expert demolition services to the vibrant city of Oakland. We understand the diverse needs of Oakland's residential and commercial sectors, offering tailored demolition solutions for projects of all sizes. Our commitment to safety, efficiency, and environmental responsibility makes us the ideal choice for your next demolition project in Oakland.\n\nWe prioritize minimizing disruption to the community while ensuring all work is completed to the highest standards. From selective interior demolition to complete building removal, Eco Bay Services is equipped to handle any challenge. Let us help you transform your property and contribute to Oakland's continued growth and development.",
+        "localContext": "Oakland is experiencing significant redevelopment, with many older buildings being replaced with modern structures, creating a demand for reliable demolition services.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is pleased to provide professional demolition services to the community of Berkeley. We recognize the unique character of Berkeley and are committed to providing demolition solutions that respect the environment and the local community. Whether you're renovating a historic home or undertaking a new construction project, we have the expertise to handle your demolition needs.\n\nOur team is dedicated to sustainable practices, ensuring that we recycle and reuse materials whenever possible. We are fully licensed and insured, and we adhere to all local regulations to ensure a safe and efficient demolition process. Choose Eco Bay Services for reliable and responsible demolition services in Berkeley.",
+        "localContext": "Berkeley's focus on sustainability and environmental awareness makes Eco Bay Services' commitment to responsible demolition practices particularly valuable.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "Eco Bay Services offers comprehensive demolition services to the residents and businesses of Daly City. We understand the specific needs of this community and provide tailored solutions for projects of all sizes. From residential renovations to commercial demolitions, we are equipped to handle any challenge safely and efficiently.\n\nOur team is committed to providing exceptional service and adhering to all local regulations. We prioritize safety and environmental responsibility in all our projects, ensuring that we minimize disruption to the community. Choose Eco Bay Services for reliable and professional demolition services in Daly City.",
+        "localContext": "Daly City's proximity to San Francisco and its growing population create a steady demand for demolition services related to residential and commercial development.",
+        "nearbyAreas": [
+          "San Francisco",
+          "South San Francisco",
+          "Pacifica"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is proud to extend its demolition services to South San Francisco. As a leading demolition contractor in the Bay Area, we understand the unique needs of this thriving city. We offer a wide range of demolition services, from selective interior demolition to complete building removal, always prioritizing safety and efficiency.\n\nWe are committed to environmentally responsible practices and strive to minimize our impact on the environment. Our team is fully licensed and insured, and we adhere to all local regulations to ensure a smooth and hassle-free demolition process. Choose Eco Bay Services for reliable and professional demolition services in South San Francisco.",
+        "localContext": "South San Francisco's industrial and commercial areas often require demolition services for redevelopment and expansion projects.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Daly City",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is pleased to offer its expert demolition services to the residents and businesses of San Bruno. We understand the diverse needs of this community and provide tailored solutions for projects of all sizes. Whether you're planning a home renovation or a commercial redevelopment, we have the expertise to handle your demolition needs safely and efficiently.\n\nOur team is dedicated to providing exceptional service and adhering to all local regulations. We prioritize safety and environmental responsibility in all our projects, ensuring that we minimize disruption to the community. Choose Eco Bay Services for reliable and professional demolition services in San Bruno.",
+        "localContext": "San Bruno's mix of residential neighborhoods and commercial areas contributes to a consistent demand for demolition and renovation services.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Millbrae",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Millbrae",
+        "slug": "millbrae-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is proud to offer comprehensive demolition services to the residents and businesses of Millbrae. We understand the unique characteristics of this community and are committed to providing tailored solutions for projects of all sizes. From residential renovations to commercial demolitions, we are equipped to handle any challenge safely and efficiently.\n\nOur team is dedicated to providing exceptional service and adhering to all local regulations. We prioritize safety and environmental responsibility in all our projects, ensuring that we minimize disruption to the community. Choose Eco Bay Services for reliable and professional demolition services in Millbrae.",
+        "localContext": "Millbrae's location near the San Francisco International Airport and its affluent residential areas create opportunities for demolition related to property upgrades and expansions.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Burlingame",
+          "San Mateo"
+        ]
+      },
+      {
+        "city": "Burlingame",
+        "slug": "burlingame-ca",
+        "state": "CA",
+        "content": "Eco Bay Services extends its expert demolition services to the beautiful city of Burlingame. We understand the specific needs of this community and provide tailored solutions for projects of all sizes. From residential renovations to commercial demolitions, we are equipped to handle any challenge safely and efficiently. We pride ourselves on our commitment to safety, efficiency, and environmental responsibility.\n\nOur team is dedicated to providing exceptional service and adhering to all local regulations. We prioritize safety and environmental responsibility in all our projects, ensuring that we minimize disruption to the community. Choose Eco Bay Services for reliable and professional demolition services in Burlingame.",
+        "localContext": "Burlingame's upscale residential areas and commercial districts often require demolition services for renovations, expansions, and new construction projects.",
+        "nearbyAreas": [
+          "Millbrae",
+          "San Mateo",
+          "Hillsborough"
+        ]
+      },
+      {
+        "city": "San Mateo",
+        "slug": "san-mateo-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is pleased to offer professional demolition services to the community of San Mateo. We recognize the unique character of San Mateo and are committed to providing demolition solutions that respect the environment and the local community. Whether you're renovating a historic home or undertaking a new construction project, we have the expertise to handle your demolition needs.\n\nOur team is dedicated to sustainable practices, ensuring that we recycle and reuse materials whenever possible. We are fully licensed and insured, and we adhere to all local regulations to ensure a safe and efficient demolition process. Choose Eco Bay Services for reliable and responsible demolition services in San Mateo.",
+        "localContext": "San Mateo's mix of residential, commercial, and industrial properties creates a diverse range of demolition needs.",
+        "nearbyAreas": [
+          "Burlingame",
+          "Foster City",
+          "Belmont"
+        ]
+      },
+      {
+        "city": "Redwood City",
+        "slug": "redwood-city-ca",
+        "state": "CA",
+        "content": "Eco Bay Services is proud to offer our demolition services to the Redwood City area. We handle a variety of demolition needs ranging from interior strip-outs to complete building removals. Our expert team is thoroughly trained to ensure the safety of your property and neighborhood. \n\nWe are committed to sustainable demolition practices, recycling materials whenever possible. Our team is fully licensed and insured, and we adhere to all local regulations. We provide reliable demolition services throughout Redwood City.",
+        "localContext": "Redwood City's growing tech industry and residential developments fuel a need for various demolition services.",
+        "nearbyAreas": [
+          "Menlo Park",
+          "San Carlos",
+          "Atherton"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Residential Demolition",
+        "text": "Eco Bay Services did an amazing job demolishing my old garage. They were professional, efficient, and left the site spotless. The team worked quickly, and the communication was excellent throughout the entire process. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Commercial Demolition",
+        "text": "We hired Eco Bay to demolish an old office space. They were very professional and worked quickly to get the job done. There were some minor delays with permitting, but they kept us informed every step of the way. Overall, a good experience.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Asbestos Abatement",
+        "text": "I was very concerned about the asbestos in my home, but Eco Bay Services put my mind at ease. They were extremely thorough and professional, and they took all the necessary precautions to ensure the safety of my family. I highly recommend them for asbestos abatement.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Concrete Removal",
+        "text": "Eco Bay Services removed an old concrete patio from my backyard. They were very efficient and did a great job of cleaning up the area afterward. The price was fair, and the service was excellent.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Sarah H.",
+        "rating": 4,
+        "service": "Selective Demolition",
+        "text": "We used Eco Bay for selective demolition during our kitchen remodel. They were very careful and precise, and they managed to remove the old cabinets and countertops without damaging the surrounding walls. I would definitely use them again.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "service": "Site Clearing",
+        "text": "Eco Bay Services cleared a lot for our new construction project. They were efficient, professional, and environmentally conscious. They even recycled a lot of the materials they removed. Great service!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Eco Bay Services: San Francisco Demolition",
+        "description": "Expert demolition services in San Francisco. Residential, commercial, asbestos abatement. Free quotes!"
+      },
+      "about": {
+        "title": "About Eco Bay Services | San Francisco Demolition",
+        "description": "Learn about Eco Bay Services, your trusted demolition contractor in San Francisco. Experience, safety, and sustainability."
+      },
+      "services": {
+        "title": "San Francisco Demolition Services | Eco Bay",
+        "description": "Comprehensive demolition services in San Francisco. Residential, commercial, selective, asbestos abatement. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Eco Bay Services | San Francisco Demolition",
+        "description": "Contact Eco Bay Services for your demolition needs in San Francisco. Get a free quote and expert advice."
+      },
+      "reviews": {
+        "title": "Eco Bay Services Reviews | San Francisco Demolition",
+        "description": "Read reviews about Eco Bay Services, your trusted demolition contractor in San Francisco. See what our clients say about our work."
+      },
+      "service-areas": {
+        "title": "San Francisco Demolition Service Areas | Eco Bay",
+        "description": "Eco Bay Services provides demolition services throughout the San Francisco Bay Area. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-demolition": "/images/service-residential-demolition.webp",
+      "commercial-demolition": "/images/service-commercial-demolition.webp",
+      "selective-demolition": "/images/service-selective-demolition.webp",
+      "concrete-removal": "/images/service-concrete-removal.webp",
+      "asbestos-abatement": "/images/service-asbestos-abatement.webp",
+      "site-clearing": "/images/service-site-clearing.webp"
+    },
+    "servicesResponsive": {
+      "residential-demolition": {
+        "src": "/images/service-residential-demolition.webp",
+        "srcset": "/images/service-residential-demolition-400w.webp 400w, /images/service-residential-demolition-800w.webp 800w, /images/service-residential-demolition-1200w.webp 1200w, /images/service-residential-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-demolition": {
+        "src": "/images/service-commercial-demolition.webp",
+        "srcset": "/images/service-commercial-demolition-400w.webp 400w, /images/service-commercial-demolition-800w.webp 800w, /images/service-commercial-demolition-1200w.webp 1200w, /images/service-commercial-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "selective-demolition": {
+        "src": "/images/service-selective-demolition.webp",
+        "srcset": "/images/service-selective-demolition-400w.webp 400w, /images/service-selective-demolition-800w.webp 800w, /images/service-selective-demolition-1200w.webp 1200w, /images/service-selective-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-removal": {
+        "src": "/images/service-concrete-removal.webp",
+        "srcset": "/images/service-concrete-removal-400w.webp 400w, /images/service-concrete-removal-800w.webp 800w, /images/service-concrete-removal-1200w.webp 1200w, /images/service-concrete-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asbestos-abatement": {
+        "src": "/images/service-asbestos-abatement.webp",
+        "srcset": "/images/service-asbestos-abatement-400w.webp 400w, /images/service-asbestos-abatement-800w.webp 800w, /images/service-asbestos-abatement-1200w.webp 1200w, /images/service-asbestos-abatement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "site-clearing": {
+        "src": "/images/service-site-clearing.webp",
+        "srcset": "/images/service-site-clearing-400w.webp 400w, /images/service-site-clearing-800w.webp 800w, /images/service-site-clearing-1200w.webp 1200w, /images/service-site-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
